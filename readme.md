@@ -11,4 +11,4 @@ This is a simple calculator application built using Java Swing. The calculator c
 1. Ensure you have Java installed on your system.
 2. Compile the code using:
    ```bash
-   javac Calculator.java
+   javac CalculatorSwing.java
